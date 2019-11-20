@@ -1,2 +1,2 @@
-# RayTracing-homework-for-CG-class-in-SJTU
+# RayTracing
 source code of the homework which implements RayTracing
